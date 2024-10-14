@@ -1,0 +1,7 @@
+## Interface: 110002
+## Title: CleanEvokerCastbars
+## Author: Bodify
+## Notes: Changes the weird Evoker castbars to be normal looking ones so you know if you can kick or not.
+## IconTexture: Interface\ICONS\INV_DracthyrHead04
+
+CleanEvokerCastbars.lua
